@@ -43,9 +43,9 @@ namespace hhQuest
             radius = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the side of triangle A");
             a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter the side of triangle A");
+            Console.WriteLine("Enter the side of triangle B");
             b = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter the side of triangle A");
+            Console.WriteLine("Enter the side of triangle C");
             c = Convert.ToDouble(Console.ReadLine());
 
 
